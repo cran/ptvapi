@@ -1,4 +1,4 @@
-ce77ebfa1177b81cded53a51ed3d09fd *DESCRIPTION
+436efcc9e800ea137f5c583985772620 *DESCRIPTION
 aa349f74ce65af26644e16729939e1e8 *LICENSE
 8d763aafaef6651c37741b8036c4b1d9 *NAMESPACE
 dabef4692ed07a863d7d9b3cf45771b5 *R/authentication.R
@@ -19,7 +19,7 @@ aa0d62b9fbd94114fd1d24ef728cca4f *R/routes.R
 75be5c93d7f523afd08e716e593d778b *R/search.R
 941dc2c44a91dbde4d3d5fece03ff444 *R/stops.R
 e9fa1285a92e9f84fdd3361358c681f8 *R/url-manipulation.R
-6a37b0f2bc0e8d854180e9883343b1d2 *README.md
+a785622f0af805624d785ec942528780 *README.md
 678feb3742598b037f1c3363ce3f384c *man/PTVGET.Rd
 c9b9b0260d6f5d8843b546fb0ad2ad82 *man/add_parameter.Rd
 38e6946b87692b29b3273b29f3d5a209 *man/add_parameters.Rd
@@ -74,7 +74,7 @@ d30a937031741c33660344d49c4773e9 *tests/testthat/helper.R
 b6e8299a757075ab68199ae642f80cd7 *tests/testthat/test-disruption-modes.R
 413a6f84dbf55d95708b97c20ba81b6d *tests/testthat/test-disruptions.R
 28af758e5c6d96d62ad5af6f86e657b2 *tests/testthat/test-fare-estimate.R
-baccf82c75cc4e02061b259206f936c2 *tests/testthat/test-filter-departures.R
+2a4b874db25d8cc4ba2b2fbecb12832b *tests/testthat/test-filter-departures.R
 c127223dd8cfd99738ccba233fadefeb *tests/testthat/test-helper-functions.R
 4a377f2b8cf43ab11bb15d8bb7297665 *tests/testthat/test-outlets.R
 59d5a2bad7d4e1ca350751ded40a6ae9 *tests/testthat/test-patterns.R
