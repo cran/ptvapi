@@ -1,3 +1,11 @@
+# ptvapi 2.0.3
+
+* Fixed 301 link in README
+
+# ptvapi 2.0.2
+
+* Remove HTML tags in logo unsupported in HTML5 to meet new CRAN policy.
+
 # ptvapi 2.0.1
 
 * Remove `lazyload` in DESCRIPTION to meet new CRAN policy (this package has no data)
