@@ -1,3 +1,11 @@
+# ptvapi 2.0.5
+
+* Corrected argument names in documentation for some internal functions.
+
+# ptvapi 2.0.4
+
+* Documented package with "_PACKAGE" sentinel to meet new CRAN requirements.
+
 # ptvapi 2.0.3
 
 * Fixed 301 link in README
